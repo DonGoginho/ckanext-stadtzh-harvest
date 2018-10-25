@@ -21,7 +21,7 @@ Example:
 
 ```json
 {
-    "data_path": "/home/liip/dropzones/GEO",
+    "data_path": "/home/liipadmin/dropzones/GEO",
     "metadata_dir": "geo-metadata",
     "metafile_dir": "DEFAULT",
     "update_datasets": false,
